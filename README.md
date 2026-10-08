@@ -65,7 +65,9 @@ The interactive dashboard includes:
 - Discount vs. Average Profit analysis
 - Interactive Year, Region, Category, and Segment slicers
 - Reset Filters functionality
+## 📊 Power BI Dashboard
 
+![Power BI Dashboard](Dashboard.png)
 ## 💡 Key Insights
 
 - Technology generated the highest overall sales and profit among the major categories.
